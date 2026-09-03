@@ -139,3 +139,7 @@ Product payment done
 Product delivered
 
 //well found is for internships  purpose of internship they have many projects many clients  student can train and get employed ... noukari now ai came now internships are available startupps,apply apply apply no prepare be prepared , job based on urgency ( introduction,resume ) only you have in your hand..
+
+
+DOM
+API INtegration
