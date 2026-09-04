@@ -143,3 +143,16 @@ Product delivered
 
 DOM
 API INtegration
+
+
+Bable is a javascript extention ,and what is jsx 
+
+components of react js:reussable components and virtual dom 
+
+do we have any rules in components ?why react is a single page application because it has embedded in single div .
+
+what is node modules npm ? sending only required files noneed node modules if app is 5 gb node modules is 4.8 gb 
+
+npm is like a play store a json is a files  just npm install ,node ignore 
+
+read articles  dont watch too much youtube 
